@@ -1,3 +1,5 @@
+<a href="https://fictiongpt.xyz"><img src="https://related.chat/github/header40.png" width="880"></a>
+
 <img src="https://related.chat/appkit/01.png" width="880">
 
 ## OVERVIEW
