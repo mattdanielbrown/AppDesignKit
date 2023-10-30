@@ -1,6 +1,6 @@
-<a href="https://fictiongpt.xyz"><img src="https://related.chat/github/header40.png" width="880"></a>
+<a href="https://learngpt.art"><img src="https://rel.codes/banner/002.png" width="880"></a>
 
-<img src="https://related.chat/appkit/01.png" width="880">
+<img src="https://rel.codes/appkit/01.png" width="880">
 
 ## OVERVIEW
 
@@ -8,7 +8,7 @@ App Design Kit is a collection of beautifully designed, ready-to-use, iOS app te
 
 The pre-programmed views can be used instantly by copying them to your existing Xcode project, or you can use the delivered project as a starter kit for your next mobile app. Now you can focus on your business logic instead of coding the user interface elements one by one.
 
-<img src="https://related.chat/appkit/02.png" width="880">
+<img src="https://rel.codes/appkit/02.png" width="880">
 
 ## FEATURES
 
